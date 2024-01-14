@@ -1,5 +1,5 @@
 import React from "react";
-import "./home.scss";
+import "./Home.scss";
 interface HomeProps {
   // Define your props here, for example:
   // title: string;
